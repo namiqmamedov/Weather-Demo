@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#list{
+    gap: 25px;
+    margin: 35px;
+}
+
+body{
+    background-color: grey;
+}
